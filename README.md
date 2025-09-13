@@ -15,7 +15,7 @@ This project helps developers write cleaner, optimized, and bug-free code with i
 
 ---------------------------------------------------------------------------------------------------------------------
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Frontend: React.js, Tailwind CSS (or your stack)
 
@@ -35,12 +35,12 @@ npm install highlight.js
 for GASP : 
 npm install gsap
 ----------------------------------------------------------------------
-react - Markdown : 
+# react - Markdown : 
 npm install react-markdown
 
 ------------------------------------------------------------------------------------------------------------------------
 
-🚀 Getting Started
+# 🚀 Getting Started
 1️⃣ Clone the Repository
 git clone https://github.com/Kashinath-Nelwade/code-reviewer.git
 cd code-reviewer
@@ -62,7 +62,7 @@ npx nodemon script.js
 
 
 ---------------------------------------------------------------------------------------------
-🎯 How It Works
+# 🎯 How It Works
 
 Paste your code into the editor.
 
